@@ -1,6 +1,6 @@
 # Hi there, I'm Pasquale De Rosa 👋
 
-I am a **Data Scientist** and **Machine Learning Researcher** specializing in the intersection of advanced deep learning and high-performance MLOps. My focus is moving complex, multimodal models from experimental design into robust, low-latency production pipelines.
+I am a **Data Scientist** specializing in the intersection of advanced deep learning and high-performance MLOps. My focus is moving complex, multimodal models from experimental design into robust, low-latency production pipelines.
 
 With a PhD in Computer Science and a strong quantitative foundation, I architect systems optimized for high-stakes financial, security, and decentralized infrastructure domains.
 
@@ -28,3 +28,10 @@ An end-to-end benchmarking infrastructure evaluating industrial inference engine
 * **MLOps & Serving:** TorchServe, BentoML, TensorFlow Serving, MLServer, MLflow, Docker
 * **Frameworks & Libs:** PyTorch, PyTorch Geometric, TensorFlow, Hugging Face, Scikit-learn, Pyenv
 * **Languages:** Python, SQL, C/C++, Bash, R, Solidity
+  
+---
+
+### 🌐 Let's Connect
+
+* 💼 **LinkedIn:** [@pasqualederosa](http://www.linkedin.com/in/pasqualederosa/)
+* 🎓 **Google Scholar:** [My Publications](https://scholar.google.com/citations?user=F2dY2VEAAAAJ&hl)
