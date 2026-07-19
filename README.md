@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Pasquale De Rosa, PhD 👋
 
-<!--
-**quapsale/quapsale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Scientist** specializing in the intersection of advanced deep learning and high-performance MLOps. My focus is moving complex, multimodal models from experimental design into robust, low-latency production pipelines.
 
-Here are some ideas to get you started:
+With a PhD in Computer Science and a strong quantitative foundation, I architect systems optimized for high-stakes financial, security, and decentralized infrastructure domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Featured Repositories & Software Artifacts
+
+#### 🛡️ [evm-bytecode-obfuscation](https://github.com/quapsale/evm-bytecode-obfuscation)
+An advanced framework built to evaluate Ethereum smart contract obfuscation techniques. It maps, isolates, and stress-tests graph analytics and fraud-detection architectures against hidden malicious logic.
+
+#### 🪝 [phishinghook](https://github.com/quapsale/phishinghook)
+The core architecture for extracting, disassembling, and analyzing Ethereum smart contract bytecode. It leverages EVM opcodes and multimodal deep learning to accurately catch phishing behaviors.
+
+#### 📈 [cryptoanalytics](https://github.com/quapsale/cryptoanalytics) & [cryptoanalytics-software](https://github.com/quapsale/cryptoanalytics-software)
+A twin-layered project providing both a high-dimensional research framework and a production-grade software toolchain for financial time-series forecasting. Features advanced statistical methods (Toda-Yamamoto Granger-causality) alongside SOTA models (LSTM, GRU, CatBoost, LightGBM) to map cross-coin dependencies.
+
+#### 🚀 [model-serving](https://github.com/quapsale/model-serving)
+An end-to-end benchmarking infrastructure evaluating industrial inference engines (**TorchServe, TF Serving, BentoML, MLflow, and MLServer**) to optimize infrastructure costs, throughput, and sub-millisecond latency trade-offs.
+
+---
+
+### 🛠️ Core Stack & Technologies
+
+* **ML / Deep Learning:** Generative AI (GANs, Diffusion), LLMs, Graph Neural Networks (GNNs), Time-Series Forecasting, Causal Inference
+* **MLOps & Serving:** TorchServe, BentoML, TensorFlow Serving, MLServer, MLflow, Docker
+* **Frameworks & Libs:** PyTorch, PyTorch Geometric, TensorFlow, Hugging Face, Scikit-learn, Pyenv
+* **Languages:** Python, SQL, C/C++, Bash, R, Solidity
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=quapsale&show_icons=true&theme=nord&count_private=true" alt="Pasquale's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quapsale&layout=compact&theme=nord&langs_count=6" alt="Top Languages" height="160px" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+* 💼 **LinkedIn:** [@pasqualederosa](http://www.linkedin.com/in/pasqualederosa/)
+* 🎓 **Google Scholar:** [My Publications](https://scholar.google.com/citations?user=F2dY2VEAAAAJ&hl)
+* 📧 **Email:** pas.derosa218@gmail.com
